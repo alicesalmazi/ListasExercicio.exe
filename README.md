@@ -3,4 +3,4 @@ Este programa contém uma coleção de 50 exercícios de lógica de programaçã
 
 ✅ Requisitos
 - Python 3.10 ou superior;
-- Terminal com suporte aos seguintes módulos:random, time, requests, os, curses.
+- Terminal com suporte aos seguintes módulos: random, time, requests, os, curses.
